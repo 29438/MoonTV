@@ -125,6 +125,10 @@
       "api": "https://apilsbzy1.com",
       "name": "lsb资源"
     },
+    "hscang": {
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/json",
+      "name": "hs仓库"
+    },
     "huangcang": {
       "api": "https://hsckzy.vip",
       "name": "黄色仓库"
